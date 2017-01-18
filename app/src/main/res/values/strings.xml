@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteApi16</string>
+    <string name="titleRegister">Cadastrar</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintTelephone">Telefone</string>
+    <string name="ButtonSave">Salvar</string>
+    <string name="Home">Home</string>
+    <string name="New">Novo</string>
+    <string name="List">Listar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
